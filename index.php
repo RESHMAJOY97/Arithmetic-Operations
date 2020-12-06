@@ -11,23 +11,22 @@
 <nav class="navbar navbar-expand-sm bg-light navbar-light">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="http://127.0.0.1:5500/index.php">HOME</a>
+            <a class="nav-link" href="index.php">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/addition.php">ADDITION</a>
+            <a class="nav-link" href="addition.php">ADDITION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/subtraction.php">SUBTRACTION</a>
+            <a class="nav-link" href="subtraction.php">SUBTRACTION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/division.php">DIVISION</a>
+            <a class="nav-link" href="division.php">DIVISION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/multiplication.php">MULTIPLICATION</a>
+            <a class="nav-link" href="multiplication.php">MULTIPLICATION</a>
           </li>
         </ul>
-      </nav>
-       
+      </nav>    
       ARITHMETIC OPERATIONS  
 
     Arithmetic  is a branch of mathematics that consists of the study of numbers, especially the properties of the traditional operations on them—addition, subtraction, multiplication, division, exponentiation and extraction of roots.Arithmetic is an elementary part of number theory, and number theory is considered to be one of the top-level divisions of modern mathematics, along with algebra, geometry, and analysis. The terms arithmetic and higher arithmetic were used until the beginning of the 20th century as synonyms for number theory, and are sometimes still used to refer to a wider part of number theory.

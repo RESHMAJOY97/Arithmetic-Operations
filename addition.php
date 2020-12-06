@@ -9,22 +9,22 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
 <body class="bgcolor">
-    <nav class="navbar navbar-expand-sm bg-light navbar-light">
+<nav class="navbar navbar-expand-sm bg-light navbar-light">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="http://127.0.0.1:5500/index.html">HOME</a>
+            <a class="nav-link" href="http://127.0.0.1:5500/index.php">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/addition.html">ADDITION</a>
+            <a class="nav-link" href="http://127.0.0.1:5500/addition.php">ADDITION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/subtraction.html">SUBTRACTION</a>
+            <a class="nav-link" href="http://127.0.0.1:5500/subtraction.php">SUBTRACTION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/division.html">DIVISION</a>
+            <a class="nav-link" href="http://127.0.0.1:5500/division.php">DIVISION</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://127.0.0.1:5500/multiplication.html">MULTIPLICATION</a>
+            <a class="nav-link" href="http://127.0.0.1:5500/multiplication.php">MULTIPLICATION</a>
           </li>
         </ul>
       </nav>
